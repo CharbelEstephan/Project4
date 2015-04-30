@@ -1,3 +1,6 @@
+//Charbel Estephan 4766752
+//Preston Bradley
+
 package p1;
 //Based off of the CarSim class made by Dovolis
 public class ShopperSim {
